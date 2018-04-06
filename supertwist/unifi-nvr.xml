@@ -3,6 +3,7 @@
   <TemplateURL>https://raw.githubusercontent.com/bishopthom/docker-templates/master/supertwist/unifi-nvr.xml</TemplateURL>
   <Name>unifi-nvr</Name>
   <Project>https://community.ubnt.com/</Project>
+  <Repository>pducharme/unifi-video-controller</Repository>  
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Beta>False</Beta>
